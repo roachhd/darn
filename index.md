@@ -1,14 +1,14 @@
 ---
 layout: front
-title: "David Darnes"
-excerpt: "Web Designer & Front-end Developer"
+title: "ROACH HAUS"
+excerpt: "Web Designer & Digital Art"
 image: "https://avatars1.githubusercontent.com/u/1177460?s=600"
 
 ---
 
 ## Web Designer & Front-end Developer
 
-Hi, my name's KATIE. I'm a Web Designer and Front-end Developer based in Melbourne.
+Hi, my name's KATIE. I'm a Web Designer and Digital Artist based in Melbourne.
 
 With over 8 years professional experience, I've been building up my skills in design, UI development, and front-end development, working with some really exciting people like [BaseKit](https://basekit.com) and [Envato Tuts+](https://tutsplus.com/).
 
